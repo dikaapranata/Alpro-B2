@@ -1,5 +1,5 @@
 /*Nama File     : CekSempurna.c*/
-/*Deskripsi     : mengetahui sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan sempurna atau bukan*/
+/*Deskripsi     : Mengetahui sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan sempurna atau bukan*/
 /*Pembuat       : Handhika Pranata Kusuma Wardana - 24060121140112*/
 /*Tgl Pembuatan : Kamis, 24 Maret 2022*/
 
