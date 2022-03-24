@@ -1,5 +1,5 @@
 /*Nama File     : CekPrima.c*/
-/*Deskripsi     : mengetahui sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan prima atau bukan*/
+/*Deskripsi     : Mengetahui sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan prima atau bukan*/
 /*Pembuat       : Handhika Pranata Kusuma Wardana - 24060121140112*/
 /*Tgl Pembuatan : Kamis, 24 Maret 2022*/
 
@@ -27,10 +27,10 @@ int main(){
             }
         }
         if (P == 1) {
-            printf("%d Bukan Bilangan prima", N);
+            printf("%d Adalah Bukan Bilangan prima", N);
         }
         else {
-            printf("%d Bilangan prima", N);
+            printf("%d Adalah Bilangan prima", N);
         }
 	}
 	return 0;
