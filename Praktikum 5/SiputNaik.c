@@ -1,5 +1,5 @@
 /*Nama File     : SiputNaik.c*/
-/*Deskripsi     : menentukan berapa hari waktu yang dibutuhkan siput untuk mencapai ketinggian N meter*/
+/*Deskripsi     :  mengetahui berapa hari waktu yang dibutuhkan oleh siput tersebut untuk mencapai ketinggin N meter*/
 /*Pembuat       : Handhika Pranata Kusuma Wardana - 24060121140112*/
 /*Tgl Pembuatan : Kamis, 24 Maret 2022*/
 
