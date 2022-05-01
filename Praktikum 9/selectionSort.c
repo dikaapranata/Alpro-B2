@@ -3,7 +3,7 @@ Nama File: selectionSort.c
 Nama     : Handhika Pranata Kusuma Wardana
 NIM      : 24060121140112
 Deskripsi: Membuat algoritma pengurutuan dengan cara menghitung jumlah
-           kemunculan dari setiap data yang di input dengan selection sort
+           kemunculan dari setiap data yang di input dengan metode selection sort
 Tanggal  : minggu, 01-05-2022 17.19 wib
 */
 
